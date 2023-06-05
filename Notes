@@ -22,3 +22,4 @@ G1 X0.4 Y200.0 Z0.3 F5000.0 ; Move to side a little
 G1 X0.4 Y20 Z0.3 F1500.0 E30 ; Draw the second line
 G92 E0 ; Reset Extruder
 
+https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/blob/main/Configuration/Line_Purge.cfg
