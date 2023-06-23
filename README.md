@@ -1,4 +1,4 @@
-# Voron24Configs
+# Voron 2.4 Configs
 Current version and backups of my Voron 2.4 Rev config files.
 
 Current Hardware: LDO 2.4 Rev C Kit, Stealthburner w/ Phaetus Rapido, BTT Knomi and Rainbow Barf LED wired into a BTT SB2209 Can Toolhead attached through a BTT U2C.
